@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pramodshetty24/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0066-plus-one) |
 | [0724-find-pivot-index](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pramodshetty24/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pramodshetty24/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
