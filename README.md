@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0520-detect-capital) |
+| [2000-reverse-prefix-of-word](https://github.com/pramodshetty24/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0344-reverse-string) |
+| [2000-reverse-prefix-of-word](https://github.com/pramodshetty24/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/pramodshetty24/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
