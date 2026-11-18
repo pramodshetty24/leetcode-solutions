@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pramodshetty24/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
