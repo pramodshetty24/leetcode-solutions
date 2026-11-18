@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/pramodshetty24/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/pramodshetty24/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pramodshetty24/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/pramodshetty24/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/pramodshetty24/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
 | ------- |
