@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2000-reverse-prefix-of-word](https://github.com/pramodshetty24/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1051-height-checker](https://github.com/pramodshetty24/leetcode-solutions/tree/master/1051-height-checker) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/pramodshetty24/leetcode-solutions/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
@@ -148,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/pramodshetty24/leetcode-solutions/tree/master/1051-height-checker) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/pramodshetty24/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
