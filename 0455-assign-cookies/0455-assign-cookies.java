@@ -1,4 +1,3 @@
-
 import java.util.Arrays;
 
 class Solution {
@@ -7,16 +6,16 @@ class Solution {
         Arrays.sort(g);
         Arrays.sort(s);
 
-        int i = 0;
-        int j = 0;
+        int i = 0; // Child pointer
+        int j = 0; // Cookie pointer
 
         while (i < g.length && j < s.length) {
 
             if (s[j] >= g[i]) {
-                i++;
+                i++; // Child is satisfied
             }
 
-            j++;
+            j++; // Move to next cookie
         }
 
         return i;
